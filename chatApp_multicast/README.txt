@@ -1,5 +1,3 @@
-Olivia Liberti
-README
 Adding Friendship/Multicast Capability to the Social Media App
 
 To compile:

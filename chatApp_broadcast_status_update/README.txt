@@ -1,5 +1,3 @@
-Olivia Liberti
-README
 Implementing a Broadcast Status Update Using Multi-threading
 
 To compile:

@@ -1,5 +1,3 @@
-Olivia Liberti
-README
 Writing a Client-Server Application
 
 To compile:
