@@ -24,7 +24,7 @@ After compiling all .java files, run Server first and then User.
 
 Server.java:
 The server uses the userThread class to send broadcast messages to all of the client threads.
-The server accepts up to a certain number of users and replys to the client #welcome if the number
+The server accepts up to a certain number of users and replies to the client #welcome if the number
 of users is below threshold, and #busy if there are not. If a new user joins, the server sends a #newuser
 to all of the other users. 
 
